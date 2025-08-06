@@ -1,1 +1,1 @@
-# galfudim.github.io
+# galfudim.dev
