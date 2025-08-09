@@ -1,0 +1,18 @@
+baseURL = 'https://galfudim.dev/'
+languageCode = 'en-us'
+title = 'Gal Fudim'
+theme = 'ananke'
+
+[params]
+  author = 'Gal Fudim'
+  description = 'Personal website and blog'
+  github = 'https://github.com/galfudim'
+  linkedin = 'https://linkedin.com/in/galfudim'
+  show_reading_time = true
+  site_logo = ''
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
