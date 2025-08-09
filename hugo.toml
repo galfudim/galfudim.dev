@@ -16,3 +16,7 @@ theme = 'ananke'
     name = 'Home'
     url = '/'
     weight = 1
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
