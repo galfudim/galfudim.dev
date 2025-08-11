@@ -4,25 +4,29 @@ title = 'Gal Fudim'
 theme = 'blowfish'
 
 [params]
-  description = 'Personal website and blog'
-  
-  # Blowfish theme settings
-  colorScheme = 'blowfish'
-  defaultAppearance = 'light'
-  autoSwitchAppearance = true
-  
-  [params.homepage]
+    description = 'Personal website and blog'
+
+    # Blowfish theme settings
+    colorScheme = 'blowfish'
+    defaultAppearance = 'light'
+    autoSwitchAppearance = true
+
+    [params.homepage]
     layout = 'page'
-  
-  [params.author]
+
+    [params.author]
     name = 'Gal Fudim'
     links = [
-      { github = 'https://github.com/galfudim' },
-      { linkedin = 'https://linkedin.com/in/galfudim' }
+        { github = 'https://github.com/galfudim' },
+        { linkedin = 'https://linkedin.com/in/galfudim' }
     ]
 
 [menu]
-  [[menu.main]]
-    name = 'Home'
-    url = '/'
-    weight = 1
+    [[menu.main]]
+        name = 'Home'
+        url = '/'
+        weight = 1
+    [[menu.main]]
+        name = 'Blog'
+        url = '/blog/'
+        weight = 2
