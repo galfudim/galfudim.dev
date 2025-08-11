@@ -5,7 +5,6 @@ theme = 'blowfish'
 
 [params]
     description = 'Personal website and blog'
-
     colorScheme = 'avocado'
     defaultAppearance = 'dark'
     autoSwitchAppearance = true
