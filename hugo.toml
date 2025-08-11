@@ -25,8 +25,18 @@ theme = 'blowfish'
     [[menu.main]]
         name = 'Home'
         url = '/'
-        weight = 1
+        weight = 10
     [[menu.main]]
         name = 'Blog'
         url = '/blog/'
-        weight = 2
+        weight = 20
+    [[menu.main]]
+        identifier = "github"
+        pre = "github"
+        url = "https://github.com/galfudim"
+        weight = 30
+    [[menu.main]]
+        identifier = "linkedin"
+        pre = "linkedin"
+        url = "https://linkedin.com/in/galfudim"
+        weight = 40
