@@ -20,9 +20,8 @@ theme = 'blowfish'
 
     [params.author]
     name = "Gal Fudim"
-    headline = "I'm a software engineer interested in cybersecurity and distributed systems."
+    headline = "Software engineer"
     image = "avatar.png"
-
 
 [menu]
     [[menu.main]]

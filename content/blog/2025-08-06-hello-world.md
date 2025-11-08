@@ -5,4 +5,3 @@ draft = false
 +++
 
 Setting up the blog.
-

@@ -4,6 +4,11 @@ draft = false
 title = "About"
 +++
 
-I'm a software engineer currently working at [Akamai](https://www.akamai.com/), where I focus on designing and implementing features for Akamai’s Guardicore Platform Agent – a Zero Trust (ZT) agent enabling enterprise customers to enforce least-privilege, identity-based access control policies for their apps.
+I'm a software engineer currently working at [Akamai](https://www.akamai.com/), where I build features for Akamai’s Zero Trust (ZT) agent — helping enterprise customers enforce least-privilege, identity-based access policies across their apps.
 
-I'm particularly interested in cybersecurity and distributed systems, and I enjoy working on projects that combine both areas. When I'm not learning, you can find me running or checking out new restaurants.
+Beyond cybersecurity, I’m interested in algorithm design and distributed systems. Lately, I’ve been deepening my knowledge of infrastructure tools like Kubernetes, Helm, and Terraform.
+
+When I'm not coding, you'll usually find me...
+* running 🏃
+* skiing  🎿
+* or checking out new restaurants 🍣
