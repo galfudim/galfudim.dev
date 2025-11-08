@@ -1,7 +1,5 @@
 +++
-date = '2025-08-09T18:36:50-04:00'
+date = "2025-08-09T18:36:50-04:00"
 draft = false
-title = 'Welcome'
+title = "Hi, I'm Gal Fudim"
 +++
-
-# Welcome to Gal's website
