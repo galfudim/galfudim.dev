@@ -5,36 +5,45 @@ theme = 'blowfish'
 
 [params]
     description = 'Personal website and blog'
-    colorScheme = 'avocado'
+    colorScheme = 'ocean'
     defaultAppearance = 'dark'
     autoSwitchAppearance = true
+    copyright = '© 2025 galfudim.dev'
+    disableTextInHeader = true
+    
+    [params.footer]
+    showThemeAttribution = true
 
     [params.homepage]
-    layout = 'page'
+    layout = 'profile'
+    showRecent = false
 
     [params.author]
-    name = 'Gal Fudim'
-    links = [
-        { github = 'https://github.com/galfudim' },
-        { linkedin = 'https://linkedin.com/in/galfudim' }
-    ]
+    name = "Gal Fudim"
+    headline = "I'm a software engineer interested in cybersecurity and distributed systems."
+    image = "avatar.png"
+
 
 [menu]
     [[menu.main]]
-        name = 'Home'
+        name = 'home'
         url = '/'
         weight = 10
     [[menu.main]]
-        name = 'Blog'
+        name = 'blog'
         url = '/blog/'
         weight = 20
+    [[menu.main]]
+        name = 'about'
+        url = '/about/'
+        weight = 30
     [[menu.main]]
         identifier = "github"
         pre = "github"
         url = "https://github.com/galfudim"
-        weight = 30
+        weight = 40
     [[menu.main]]
         identifier = "linkedin"
         pre = "linkedin"
         url = "https://linkedin.com/in/galfudim"
-        weight = 40
+        weight = 50
